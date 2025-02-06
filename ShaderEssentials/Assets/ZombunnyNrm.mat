@@ -105,8 +105,8 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
-    - _bumpAmount: 8.92
-    - _emissiveAmount: 1.67
+    - _bumpAmount: 2
+    - _emissiveAmount: 1
     - _myFloat: 0.5
     - _myRange: 1.14
     m_Colors:

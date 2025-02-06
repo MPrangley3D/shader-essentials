@@ -24,16 +24,19 @@ Shader "CodeGoblin/NormalsSample
         sampler2D _diffuse;
         sampler2D _emissive;
         sampler2D _normal;
+        samplerCUBE _myCube;
         half _bumpAmount;
         half _emissiveAmount;
 
         void surf (Input IN, inout SurfaceOutput o)
         {
-            o.Albedo = tex2D(_diffuse, IN.uv_diffuse).rgb;
-            o.Emission = tex2D(_emissive, IN.uv_emissive).rgb;
-            o.Emission *= _emissiveAmount;
+            //o.Albedo = tex2D(_diffuse, IN.uv_diffuse).rgb;
+            //o.Emission = tex2D(_emissive, IN.uv_emissive).rgb;
+            //o.Emission *= _emissiveAmount;
             o.Normal = UnpackNormal(tex2D(_normal, IN.uv_normal));
             o.Normal *= float3(_bumpAmount, _bumpAmount, 1);
+
+            o.Albedo = o.Normal ;
         }
         ENDCG
     }

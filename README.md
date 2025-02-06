@@ -11,6 +11,9 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # Parametarized Normal + Emissive Intensity:
 <img src="Images\Normals.png">
 
+# Normals as Albedo (For Visualization)
+<img src="Images\AlbedoNrm.png">
+
 ## Acknowledgements
 
  - Referencing the works of Penny de Byl
