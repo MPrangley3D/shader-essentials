@@ -59,6 +59,7 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
+*.unitypackage.meta
 *.app
 
 # Crashlytics generated file
@@ -70,9 +71,5 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-/ShaderEssentials/Logs
-/ShaderEssentials/Logs
-/ShaderEssentials/Library/ShaderCache
-ShaderEssentials/Logs/AssetImportWorker0.log
 /ShaderEssentials/Library
-/ShaderEssentials/Library
+/ShaderEssentials/Logs
