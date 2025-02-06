@@ -30,7 +30,7 @@ Shader "CodeGoblin/Roughness Test"
         void surf (Input IN, inout SurfaceOutput o)
         {
             //o.Albedo = tex2D(_diffuse, IN.uv_diffuse).rgb;
-            o.Normal = UnpackNormal(tex2D(_normal, IN.uv_normal)) * 0.3;
+            o.Normal = UnpackNormal(tex2D(_normal, IN.uv_normal)) * 0.3; 
             o.Albedo = texCUBE (_myCube, WorldReflectionVector (IN, o.Normal)).rgb;
 
             //o.Normal *= float3(_bumpAmount, _bumpAmount, 1);
