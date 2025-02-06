@@ -14,6 +14,9 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # Normals as Albedo (For Visualization)
 <img src="Images\AlbedoNrm.png">
 
+# Chromebun
+<img src="Images\ChromeBun.png">
+
 ## Acknowledgements
 
  - Referencing the works of Penny de Byl
