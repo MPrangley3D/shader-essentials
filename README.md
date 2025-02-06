@@ -5,8 +5,11 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # Getting Started:
 <img src="Images\Starting.png">
 
-# Getting Started:
+# More Parameter Exploration:
 <img src="Images\Zombunny.png">
+
+# Parametarized Normal + Emissive Intensity:
+<img src="Images\Normals.png">
 
 ## Acknowledgements
 
