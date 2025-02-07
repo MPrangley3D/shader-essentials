@@ -23,6 +23,10 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # World Position Cutoff
 <img src="Images\worldpos.png">
 
+# Blinn
+<img src="Images\blinn.png">
+
+
 ## Acknowledgements
 
  - Referencing the works of Penny de Byl
