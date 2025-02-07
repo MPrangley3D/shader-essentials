@@ -26,6 +26,9 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # Blinn
 <img src="Images\blinn.png">
 
+# Specular & Metallic
+<img src="Images\specmetal.png">
+
 
 ## Acknowledgements
 
