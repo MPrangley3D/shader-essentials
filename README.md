@@ -17,6 +17,12 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # Chromebun
 <img src="Images\ChromeBun.png">
 
+# Rim Lighting
+<img src="Images\rim.png">
+
+# World Position Cutoff
+<img src="Images\worldpos.png">
+
 ## Acknowledgements
 
  - Referencing the works of Penny de Byl
