@@ -29,6 +29,12 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # Specular & Metallic
 <img src="Images\specmetal.png">
 
+# Hand-rolled Lambert & Blinn
+<img src="Images\handblinnlamb.png">
+
+# Toon Style Shader w/ Ramp
+<img src="Images\toon.png">
+
 
 ## Acknowledgements
 
