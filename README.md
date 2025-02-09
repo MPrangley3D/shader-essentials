@@ -22,6 +22,7 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 
 # World Position Cutoff
 <img src="Images\worldpos.png">
+<img src="Images\worldpos.gif">
 
 # Blinn
 <img src="Images\blinn.png">
@@ -34,6 +35,9 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 
 # Toon Style Shader w/ Ramp
 <img src="Images\toon.png">
+
+# Sin Wave Color Pulse
+<img src="Images\sincolor.gif">
 
 
 ## Acknowledgements

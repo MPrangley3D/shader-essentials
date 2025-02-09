@@ -18,7 +18,7 @@ Shader "CodeGoblin/CustomBlinn"
             float spec = pow (nh, 48.0);
 
             half4 color;
-            color.rgb = (s.Albedo * _LightColor0.rgb * diff + _LightColor0.rgb * spec) * atten;
+            color.rgb = (s.Albedo * _LightColor0.rgb * diff + _LightColor0.rgb * spec) * atten * _SinTime;
             color.a = s.Alpha;
 
             return color;
