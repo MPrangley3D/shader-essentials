@@ -30,7 +30,7 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # Specular & Metallic
 <img src="Images\specmetal.png">
 
-# Hand-rolled Lambert & Blinn
+# Hand-Rolled Lambert & Blinn
 <img src="Images\handblinnlamb.png">
 
 # Toon Style Shader w/ Ramp
@@ -39,6 +39,8 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # Sin Wave Color Pulse
 <img src="Images\sincolor.gif">
 
+# Sin Wave Color Pulse
+<img src="Images\hologram.gif">
 
 ## Acknowledgements
 
