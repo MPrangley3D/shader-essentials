@@ -39,8 +39,8 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # Sin Wave Color Pulse
 <img src="Images\sincolor.gif">
 
-# Sin Wave Color Pulse
-<img src="Images\hologram.gif">
+# Hologram Material
+<img src="Images\hologram.png">
 
 ## Acknowledgements
 
