@@ -45,6 +45,8 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # Decals
 <img src="Images\decal.png">
 
+# Stencil Buffer Masking
+<img src="Images\stencilmask.png">
 
 ## Acknowledgements
 
