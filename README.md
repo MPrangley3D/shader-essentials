@@ -48,6 +48,9 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # Stencil Buffer Masking
 <img src="Images\stencilmask.png">
 
+# Custom Stencils
+<img src="Images\stencil.gif">
+
 ## Acknowledgements
 
  - Referencing the works of Penny de Byl

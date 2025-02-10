@@ -4,7 +4,7 @@ public class MyRotate : MonoBehaviour
 {
     void Start()
     {
-        
+        Application.targetFrameRate = 30;
     }
 
     void Update()
