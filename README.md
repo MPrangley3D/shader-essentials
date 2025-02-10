@@ -42,6 +42,10 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # Hologram Material
 <img src="Images\hologram.png">
 
+# Decals
+<img src="Images\decal.png">
+
+
 ## Acknowledgements
 
  - Referencing the works of Penny de Byl
