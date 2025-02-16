@@ -51,6 +51,12 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # Custom Stencils
 <img src="Images\stencil.gif">
 
+# Custom Forward Lighting in Fragment Shader
+<img src="Images\ShaderLighting.gif">
+
+# Custom Shadow Pass in Fragment Shader
+<img src="Images\DiffuseShadow.png">
+
 ## Acknowledgements
 
  - Referencing the works of Penny de Byl
