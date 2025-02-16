@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: VFLightMat
-  m_Shader: {fileID: 4800000, guid: 9be5789d8832ba340861901c86a70e1e, type: 3}
+  m_Name: VFLightMa
+  m_Shader: {fileID: 4800000, guid: ebee69bcc6804f34fb06b3ec4bd49447, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
