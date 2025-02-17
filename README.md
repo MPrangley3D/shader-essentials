@@ -57,6 +57,12 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # Custom Shadow Pass in Fragment Shader
 <img src="Images\DiffuseShadow.png">
 
+# Simple Outline
+<img src="Images\outline.png">
+
+# 3D Outline
+<img src="Images\advoutline.png">
+
 ## Acknowledgements
 
  - Referencing the works of Penny de Byl
