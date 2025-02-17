@@ -53,7 +53,8 @@ Shader "CodeGoblin/_VertFrag/VFDiffuseShadows"
             {
                 fixed4 col = tex2D(_MainTex, i.uv);
                 fixed shadow = SHADOW_ATTENUATION(i);
-                col *= i.diff * shadow;
+                //col *= i.diff * shadow.r;
+                col.rgb *= i.diff * shadow + (shadow < 0.2 ? float3(0,1,0):0);
                 return col;
             }
             ENDCG
