@@ -72,6 +72,12 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 # UV Panning Water
 <img src="Images\uvwater.gif">
 
+# Panning & Animated Water
+<img src="Images\improvedwaves.gif">
+
+# Plasma Effect Shader
+<img src="Images\plasma.gif">
+
 ## Acknowledgements
 
  - Referencing the works of Penny de Byl
