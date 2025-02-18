@@ -41,7 +41,6 @@ Shader "CodeGoblin/_Advanced/Wave"
           v.vertex.y = v.vertex.y + waveHeight;
           v.normal = normalize(float3(v.normal.x + waveHeight, v.normal.y, v.normal.z));
           o.vertColor = waveHeight + 2;
-
       }
 
       sampler2D _MainTex;
