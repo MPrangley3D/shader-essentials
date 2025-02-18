@@ -67,7 +67,7 @@ Some study projects in Unity 6 with Vertex, Fragment, and Compute shaders.
 <img src="Images\glass.gif">
 
 # Vertex Shader Waves
-<img src="Images\glass.gif">
+<img src="Images\waves.gif">
 
 ## Acknowledgements
 
